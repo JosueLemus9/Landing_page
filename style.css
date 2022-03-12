@@ -1,0 +1,30 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    display: flex;
+    background-color: #1F2937;
+    color: white;
+    flex-direction: row;
+    
+
+
+}
+.logo {
+    display: flex;
+    align-items: flex-start;
+    padding: 8px;
+    font-size: 18px;
+}
+.header {
+    display: flex;
+    justify-content: center;
+}
+.links {
+    display: flex;
+    justify-content: right;
+}
+ul{
+    list-style: none;
+}
+.secundary {
+    display: flex;
+}
